@@ -11,7 +11,7 @@ Data modelling: I have connected datasets using primary key and foreign key by u
 
 ## Customer Performance Report:
 
-Customer Performance report:https://github.com/manishajadhav1004/Excel-Sales_Analytics/blob/main/Customer%20Sales%20Performance%20Report.pdf
+_[Customer Performance report]_(https://github.com/manishajadhav1004/Excel-Sales_Analytics/blob/main/Customer%20Sales%20Performance%20Report.pdf)
 
 
 
