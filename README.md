@@ -34,7 +34,7 @@ Data cleaning: Checked for duplicate values and null values, errors, etc.
 Data modelling: I have connected datasets using primary key and foreign key by using data modelling in power pivot.
 
 ## Customer Performance Report:
-
+[Customer Performance Sales Report](#https://github.com/manishajadhav1004/Excel-Sales_Analytics/blob/main/Customer%20Sales%20Performance%20Report.pdf)
 
 
 
