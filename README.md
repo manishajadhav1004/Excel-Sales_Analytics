@@ -1,11 +1,6 @@
 # Excel-Sales_Analytics
 
 
-
-## Customer Performance Report:
-
-**1** Create a _[Customer Performance report]_(https://github.com/manishajadhav1004/Excel-Sales_Analytics/blob/main/Customer%20Sales%20Performance%20Report.pdf)
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -42,7 +37,7 @@ Data modelling: I have connected datasets using primary key and foreign key by u
 [Division Level Report](https://github.com/manishajadhav1004/Excel-Sales_Analytics/blob/main/Division%20Level%20Report.pdf)
 
 
-"In this sheet, sales according to division for the years 2019, 2020, and 2021 are displayed, along with the corresponding increase/decrease in sales from 2020 to 2021."
+"In this sheet, sales according to division for the years 2020, and 2021 are displayed, along with the corresponding increase/decrease in sales from 2020 to 2021."
 
 
 
