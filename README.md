@@ -32,12 +32,22 @@ Data modelling: I have connected datasets using primary key and foreign key by u
 
 [Customer Performance Sales Report](https://github.com/manishajadhav1004/Excel-Sales_Analytics/blob/main/Customer%20Sales%20Performance%20Report.pdf)
 
-"In this sheet, sales according to customer for the years 2019, 2020, and 2021 are displayed, along with the corresponding increase/decrease in sales from 2020 to 2021."
+In this sheet, sales according to customer for the years 2019, 2020, and 2021 are displayed, along with the corresponding increase/decrease in sales from 2020 to 2021.
 ### Division Level Report:
 [Division Level Report](https://github.com/manishajadhav1004/Excel-Sales_Analytics/blob/main/Division%20Level%20Report.pdf)
 
 
-"In this sheet, sales according to division for the years 2020, and 2021 are displayed, along with the corresponding increase/decrease in sales from 2020 to 2021."
+In this sheet, sales according to division for the years 2020, and 2021 are displayed, along with the corresponding increase/decrease in sales from 2020 to 2021.
+
+
+### Market Performance Vs Target:
+
+[Market Performance Vs Target](https://github.com/manishajadhav1004/Excel-Sales_Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf)
+
+In this sheet, sales according to country for the years 2019, 2020,2021 and differrence between 2021 and Target are displayed, along with the corresponding increase/decrease in sales from 2021 sales and Target.
+
+
+
 
 
 
