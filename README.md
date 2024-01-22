@@ -6,11 +6,10 @@
 - [Overview](#overview)
 - [Getting Started](#getting-started)
 - [Customer Performance Report](#Customer-Performance-Report)
-- [Analysis and Visualizations](#analysis-and-visualizations)
-- [Contributing](#contributing)
-- [License](#license)
-
-...
+- [Division Level Report](#Division-Level-Report)
+- [ Market Performance Vs Target](#Market-Performance-Vs-Target)
+- [Top 10 Products](#Top-10-Products)
+- [Top 5 and Bottom 5 Products](#Top-5-and-Bottom-5-Products)
 
 ## Overview
 
@@ -46,7 +45,17 @@ In this sheet, sales according to division for the years 2020, and 2021 are disp
 
 In this sheet, sales according to country for the years 2019, 2020,2021 and differrence between 2021 and Target are displayed, along with the corresponding increase/decrease in sales from 2021 sales and Target.
 
+### Top 10 Products
 
+[Top 10 Products](https://github.com/manishajadhav1004/Excel-Sales_Analytics/blob/main/Top%2010%20product.pdf)
+
+10 Highest selling products in 2021 and their increase in percentage based on Net Sales in 2020
+
+ ### Top 5 and Bottom 5 Products
+
+ [Top 5 and Bottom 5 Products](https://github.com/manishajadhav1004/Excel-Sales_Analytics/blob/main/Top5%26Bottom5%20product.pdf)
+
+ 5 Highest and Lowest performing products are shown with sum of quantity
 
 
 
