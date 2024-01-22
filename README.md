@@ -36,7 +36,7 @@ Data modelling: I have connected datasets using primary key and foreign key by u
 ## Customer Performance Report:
 
 [Customer Performance Sales Report](https://github.com/manishajadhav1004/Excel-Sales_Analytics/blob/main/Customer%20Sales%20Performance%20Report.pdf)
-In this sheet sales according to year is shown and increase/decrease in salescurrent Vs last year is shown 
+In this sheet sales according to customer of years(2019,2020,2021) is shown and increase/decrease in sales 2020 Vs 2021 is shown .
 
 
 
