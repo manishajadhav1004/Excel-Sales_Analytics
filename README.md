@@ -33,10 +33,23 @@ Data cleaning: Checked for duplicate values and null values, errors, etc.
 
 Data modelling: I have connected datasets using primary key and foreign key by using data modelling in power pivot.
 
-## Customer Performance Report:
+### Customer Performance Report:
 
 [Customer Performance Sales Report](https://github.com/manishajadhav1004/Excel-Sales_Analytics/blob/main/Customer%20Sales%20Performance%20Report.pdf)
-In this sheet sales according to customer of years(2019,2020,2021) is shown and increase/decrease in sales 2020 Vs 2021 is shown .
+
+"In this sheet, sales according to customer for the years 2019, 2020, and 2021 are displayed, along with the corresponding increase/decrease in sales from 2020 to 2021."
+### Division Level Report:
+[Division Level Report](https://github.com/manishajadhav1004/Excel-Sales_Analytics/blob/main/Division%20Level%20Report.pdf)
+
+
+"In this sheet, sales according to division for the years 2019, 2020, and 2021 are displayed, along with the corresponding increase/decrease in sales from 2020 to 2021."
+
+
+
+
+
+
+
 
 
 
