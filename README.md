@@ -33,7 +33,8 @@ Data cleaning: Checked for duplicate values and null values, errors, etc.
 
 Data modelling: I have connected datasets using primary key and foreign key by using data modelling in power pivot.
 
-## Customer Performance Report
+## Customer Performance Report:
+
 
 
 
